@@ -15,7 +15,10 @@ This repository houses our project for the Course CSCI : 5551 at University of M
 - RRT, RRT Connect and Collision Detection
 - Mobile Manipulation with RRT-Connect, Inverse Kinematics, and Finite State Machines.
 
-For our final project, CopyCat, our aim was to mimic human poses with a Baxter robot. See the detailed project poster below:
+For our final project, CopyCat, our aim was to mimic human poses with a Baxter robot. 
+See the project demo at [CopyCat](https://mohitydv09.github.io/copycat/).
+
+Below project poster describes the work done for the project.
 
 <p align="center">
 <img src="https://github.com/mohitydv09/copycat/assets/101336175/3b6ab0a7-3465-4e94-93a5-01bc6fdcd10b" width="800">
