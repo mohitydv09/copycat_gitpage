@@ -33,5 +33,7 @@ Video of Project in action :
 https://github.com/mohitydv09/copycat/assets/101336175/66eb51d3-7792-47a1-980f-fddee613950e
 
 Credits:
+
 Prof. Karthik Desingh, University of Minnesota for Coursework of CSCI:5551 Fall 2023.
+
 Prof. Odest Chadwicke Jenkins, University of Michigan for KinEval robotics simulator.
