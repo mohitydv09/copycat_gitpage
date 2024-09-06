@@ -25,20 +25,13 @@ Below project poster describes the work done for the project.
 </p>
 
 
-
-
-The repository includes pose.py for capturing webcam feeds, extracting keypoints, and calculating joint angles. However, simulation code isn't provided due to course policy. Our implementation was robust, allowing real-time pose imitation for any person, demonstrated during our presentation session.
+The repository includes pose.py for capturing webcam feeds, extracting keypoints, and calculating joint angles. However, simulation code isn't provided due to course policy. 
+Our implementation was robust, allowing real-time pose imitation for any person, demonstrated during our presentation session.
 
 Video of Project in action :
 
 https://github.com/mohitydv09/copycat/assets/101336175/66eb51d3-7792-47a1-980f-fddee613950e
 
-Formal project presetation by our team :
-
-https://github.com/mohitydv09/copycat/assets/101336175/303247a8-4795-48f0-a792-3755abd43513
-
-Public engagement with the project at the poster presetation session:
-
-https://github.com/mohitydv09/copycat/assets/101336175/7cbd6d79-2210-4ea4-83b3-f81e3c6b7a2f
-
-
+Credits:
+Prof. Karthik Desingh, University of Minnesota for Coursework of CSCI:5551 Fall 2023.
+Prof. Odest Chadwicke Jenkins, University of Michigan for KinEval robotics simulator.
